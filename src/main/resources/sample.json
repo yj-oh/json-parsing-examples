@@ -1,0 +1,20 @@
+{
+  "uuid": "03adf601-8c53-468e-b423-e29609f5c479",
+  "color": {
+    "id": "color01",
+    "name": "white",
+    "hex": "#ffffff"
+  },
+  "animals": [
+    {
+      "id": 1,
+      "name": "오춘식",
+      "type": "hamster"
+    },
+    {
+      "id": 2,
+      "name": "오춘무",
+      "type": "fish"
+    }
+  ]
+}
